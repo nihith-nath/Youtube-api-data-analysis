@@ -38,7 +38,6 @@ This project involves the analysis of the Vox YouTube channel using the YouTube 
 - Potential enhancements or additional analyses for the project.
 
 ## Contributors
-- Your Name
-- Any collaborators or contributors to the project.
+- Nihith Nath
 
 Feel free to explore the code and contribute to the project! 🚀
