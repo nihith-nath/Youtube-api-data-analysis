@@ -31,10 +31,13 @@ Channels:
 - Insider Art
 
 ## Data Analysis
-
 ### Channel Information
 - Extracted data on channel name, subscribers, total views, total videos, and playlist ID.
 - Stored the information in a Pandas DataFrame.
+
+### Data Cleaning Process
+- Handled missing values in the 'viewCount', 'likeCount', and 'commentCount' columns.
+- Implemented custom functions for data cleaning and preprocessing.## Data Analysis
 
 ## Future Improvements
 - Potential enhancements or additional analyses for the project.
